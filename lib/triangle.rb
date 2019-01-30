@@ -26,8 +26,6 @@ class Triangle
 
   end
 
-  
+
 
 end
-
-
